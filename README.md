@@ -12,6 +12,9 @@ I have my own email list but I can't upload here because it's personal data.
 
 A2 : You need to find some survey or document which contains a list of Email (There's no limit the number of email(s) to analyse.)
 
+**Sample Email can be download here :<br>**
+http://www.indianemailsdatabase.in/database-samples.php
+
 Copyright(c) TanakitInt. All rights reserved.<br/>
 Do not distribute without premission!<br/>
 Free for educational use, NOT for commercial!
