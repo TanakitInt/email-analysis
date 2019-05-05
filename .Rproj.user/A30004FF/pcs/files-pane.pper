@@ -1,8 +1,8 @@
 {
-    "path" : "D:/TanakitInt/Documents/GitHub/email-analysis",
+    "path" : "C:/Users/TanakitInt/Desktop/R Project",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]
