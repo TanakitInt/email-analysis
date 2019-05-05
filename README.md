@@ -15,6 +15,9 @@ A2 : You need to find some survey or document which contains a list of Email (Th
 **Sample Email can be download here :<br>**
 http://www.indianemailsdatabase.in/database-samples.php
 
+**Video**
+https://www.youtube.com/watch?v=lNI1kC2_X_w
+
 Copyright(c) TanakitInt. All rights reserved.<br/>
 Do not distribute without premission!<br/>
 Free for educational use, NOT for commercial!
